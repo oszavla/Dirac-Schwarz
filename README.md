@@ -1,2 +1,2 @@
 # Dirac-Schwarz
-Repository for computing quasibound state solution for Dirac Particle in Schwarzschid spacetime
+Repository for computing quasibound state solution for Dirac Particle in Schwarzschid spacetime for my bachelor thesis
